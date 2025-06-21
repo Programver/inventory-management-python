@@ -1,0 +1,20 @@
+1,Notebook,50,100
+2,Pencil,10,200
+3,Pen,20,150
+4,Eraser,5,180
+5,Marker,25,90
+6,Scale,15,120
+7,Sharpener,8,140
+8,File Folder,30,80
+9,Sticky Notes,12,160
+10,Highlighter,22,110
+11,Stapler,60,50
+12,Paper Clips,7,300
+13,Glue Stick,18,130
+14,Scissors,45,70
+15,Whiteboard Duster,35,60
+16,Calculator,150,40
+17,Drawing Book,40,100
+18,Chalk Box,20,90
+19,Tape Roll,15,85
+20,Printer Paper,250,30
