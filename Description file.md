@@ -11,7 +11,7 @@ This is a basic inventory and sales management system built using Python file ha
 - Log all transactions in `Sales.txt` with timestamp
 - Simple billing system
 
-#Technologies Used
+##Technologies Used
 
 - Python
 - Jupyter Notebook
